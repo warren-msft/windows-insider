@@ -53,8 +53,13 @@ Preview builds for Windows 11, version 24H2.
 
 | Build | Canary | Dev | RP | SDK | ISO |
 |---|---|---|---|---|---|
-|26120.2200*||[**10/25/2024**](https://blogs.windows.com/windows-insider/2024/10/25/announcing-windows-11-insider-preview-build-26120-2200-dev-channel/)| | | |
-|26100.2152| | |[**10/10/2024**](https://blogs.windows.com/windows-insider/2024/10/10/releasing-windows-11-build-26100-2152-to-the-release-preview-channel/) | |
+|26120.2510*||[**12/6/2024**](https://blogs.windows.com/windows-insider/2024/12/06/previewing-more-copilot-experiences-with-windows-insiders-in-the-dev-channel/)| | | |
+|26100.2448| | |[**11/14/2024**](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-11-build-26100-2448-to-the-release-preview-channel/) | |
+|26120.2415*||[11/22/2024](https://blogs.windows.com/windows-insider/2024/11/22/previewing-recall-with-click-to-do-on-copilot-pcs-with-windows-insiders-in-the-dev-channel/)| | | |
+|26120.2222*||[11/8/2024](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-26120-2222-dev-channel/)| | | |
+|26120.2213*||[11/4/2024](https://blogs.windows.com/windows-insider/2024/11/04/announcing-windows-11-insider-preview-build-26120-2213-dev-channel/)| | | |
+|26120.2200*||[10/25/2024](https://blogs.windows.com/windows-insider/2024/10/25/announcing-windows-11-insider-preview-build-26120-2200-dev-channel/)| | | |
+|26100.2152| | |[10/10/2024](https://blogs.windows.com/windows-insider/2024/10/10/releasing-windows-11-build-26100-2152-to-the-release-preview-channel/) | |
 |26120.2130*||[10/18/2024](https://blogs.windows.com/windows-insider/2024/10/18/announcing-windows-11-insider-preview-build-26120-2130-dev-channel/)| | | |
 |26120.2122*||[10/11/2024](https://blogs.windows.com/windows-insider/2024/10/11/announcing-windows-11-insider-preview-build-26120-2122-dev-channel/)| | | |
 |26120.1930*||[10/4/2024](https://blogs.windows.com/windows-insider/2024/10/04/announcing-windows-11-insider-preview-build-26120-1930-dev-channel/)| | | |
