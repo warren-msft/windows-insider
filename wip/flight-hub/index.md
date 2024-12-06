@@ -210,9 +210,14 @@ Preview builds for updates to Windows 11, version 23H2 (Build 22631).
 
 | Build | Beta | RP |
 |---|---|---|
-|22635.4440*|[**11/1/2024**](https://blogs.windows.com/windows-insider/2024/11/01/announcing-windows-11-insider-preview-build-22635-4440-beta-channel/)| |
+|22635.4580*|[**12/6/2024**](https://blogs.windows.com/windows-insider/2024/12/06/announcing-windows-11-insider-preview-build-22635-4580-beta-channel/)| 
+|22635.4515*|[11/22/2024](https://blogs.windows.com/windows-insider/2024/11/22/announcing-windows-11-insider-preview-build-22635-4515-beta-channel/)| 
+|22635.4510*|[11/15/2024](https://blogs.windows.com/windows-insider/2024/11/15/announcing-windows-11-insider-preview-build-22635-4510-beta-channel/)| 
+|22631.4534| |[**11/14/2024**](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-11-build-22631-4534-to-the-release-preview-channel/)|
+|22635.4445*|[11/8/2024](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-22635-4445-beta-channel/)| |
+|22635.4440*|[11/1/2024](https://blogs.windows.com/windows-insider/2024/11/01/announcing-windows-11-insider-preview-build-22635-4440-beta-channel/)| |
 |22635.4435*|[10/25/2024](https://blogs.windows.com/windows-insider/2024/10/25/announcing-windows-11-insider-preview-build-22635-4435-beta-channel/)| |
-|22631.4387| |[**10/10/2024**](https://blogs.windows.com/windows-insider/2024/10/10/releasing-windows-11-build-22631-4387-to-the-release-preview-channel/)|
+|22631.4387| |[10/10/2024](https://blogs.windows.com/windows-insider/2024/10/10/releasing-windows-11-build-22631-4387-to-the-release-preview-channel/)|
 |22635.4371*|[10/18/2024](https://blogs.windows.com/windows-insider/2024/10/18/announcing-windows-11-insider-preview-build-22635-4371-beta-channel/)| |
 |22635.4367*|[10/11/2024](https://blogs.windows.com/windows-insider/2024/10/11/announcing-windows-11-insider-preview-build-22635-4367-beta-channel/)| |
 |22635.4300*|[10/4/2024](https://blogs.windows.com/windows-insider/2024/10/04/announcing-windows-11-insider-preview-build-22635-4300-beta-channel/)| |
