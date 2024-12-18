@@ -54,7 +54,8 @@ Preview builds for Windows 11, version 24H2.
 
 | Build | Canary | Dev | RP | SDK | ISO |
 |---|---|---|---|---|---|
-|26120.2702*||[**12/13/2024**](https://blogs.windows.com/windows-insider/2024/12/13/announcing-windows-11-insider-preview-build-26120-2702-dev-channel/)| | | |
+|26120.2705*||[**12/18/2024**](https://blogs.windows.com/windows-insider/2024/12/18/releasing-real-time-translation-in-live-captions-to-more-copilot-pcs-in-the-dev-channel/)| | | |
+|26120.2702*||[12/13/2024](https://blogs.windows.com/windows-insider/2024/12/13/announcing-windows-11-insider-preview-build-26120-2702-dev-channel/)| | | |
 |26120.2510*||[12/6/2024](https://blogs.windows.com/windows-insider/2024/12/06/previewing-more-copilot-experiences-with-windows-insiders-in-the-dev-channel/)| | | |
 |26100.2448| | |[**11/14/2024**](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-11-build-26100-2448-to-the-release-preview-channel/) | |
 |26120.2415*||[11/22/2024](https://blogs.windows.com/windows-insider/2024/11/22/previewing-recall-with-click-to-do-on-copilot-pcs-with-windows-insiders-in-the-dev-channel/)| | | |
