@@ -19,7 +19,8 @@ Welcome to Flight Hub! Use this dashboard to quickly identify the latest Windows
 
 | Build | Canary | ISO |
 |---|---|---|---|
-|27764|[**12/11/2024**](https://blogs.windows.com/windows-insider/2024/12/11/announcing-windows-11-insider-preview-build-27764-canary-channel/)||
+|27766|[**1/3/2025**](https://blogs.windows.com/windows-insider/2025/01/03/announcing-windows-11-insider-preview-build-27766-canary-channel/)||
+|27764|[12/11/2024](https://blogs.windows.com/windows-insider/2024/12/11/announcing-windows-11-insider-preview-build-27764-canary-channel/)||
 |27758|[12/4/2024](https://blogs.windows.com/windows-insider/2024/12/04/announcing-windows-11-insider-preview-build-27758-canary-channel/)||
 |27754|[11/20/2024](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel/)||
 |27749|[11/13/2024](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel/)|[**11/13/2024**](https://aka.ms/wipISO)|
@@ -213,7 +214,8 @@ Preview builds for updates to Windows 11, version 23H2 (Build 22631).
 
 | Build | Beta | RP |
 |---|---|---|
-|22635.4655*|[**12/13/2024**](https://blogs.windows.com/windows-insider/2024/12/13/announcing-windows-11-insider-preview-build-22635-4655-beta-channel/)|
+|22635.4660*|[**1/3/2025**](https://blogs.windows.com/windows-insider/2025/01/03/announcing-windows-11-insider-preview-build-22635-4660-beta-channel/)|
+|22635.4655*|[12/13/2024](https://blogs.windows.com/windows-insider/2024/12/13/announcing-windows-11-insider-preview-build-22635-4655-beta-channel/)|
 |22635.4580*|[12/6/2024](https://blogs.windows.com/windows-insider/2024/12/06/announcing-windows-11-insider-preview-build-22635-4580-beta-channel/)| 
 |22635.4515*|[11/22/2024](https://blogs.windows.com/windows-insider/2024/11/22/announcing-windows-11-insider-preview-build-22635-4515-beta-channel/)| 
 |22635.4510*|[11/15/2024](https://blogs.windows.com/windows-insider/2024/11/15/announcing-windows-11-insider-preview-build-22635-4510-beta-channel/)| 
