@@ -19,13 +19,13 @@ Welcome to Flight Hub! Use this dashboard to quickly identify the latest Windows
 
 | Build | Canary | ISO |
 |---|---|---|---|
-|27774|[**1/16/2025**](https://blogs.windows.com/windows-insider/2025/01/16/announcing-windows-11-insider-preview-build-27774-canary-channel/)||
+|27774|[**1/16/2025**](https://blogs.windows.com/windows-insider/2025/01/16/announcing-windows-11-insider-preview-build-27774-canary-channel/)|[**1/16/2025**](https://aka.ms/wipISO)|
 |27768|[1/9/2025](https://blogs.windows.com/windows-insider/2025/01/09/announcing-windows-11-insider-preview-build-27768-canary-channel/)||
 |27766|[1/3/2025](https://blogs.windows.com/windows-insider/2025/01/03/announcing-windows-11-insider-preview-build-27766-canary-channel/)||
 |27764|[12/11/2024](https://blogs.windows.com/windows-insider/2024/12/11/announcing-windows-11-insider-preview-build-27764-canary-channel/)||
 |27758|[12/4/2024](https://blogs.windows.com/windows-insider/2024/12/04/announcing-windows-11-insider-preview-build-27758-canary-channel/)||
 |27754|[11/20/2024](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel/)||
-|27749|[11/13/2024](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel/)|[**11/13/2024**](https://aka.ms/wipISO)|
+|27749|[11/13/2024](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel/)|11/13/2024|
 |27744|[11/6/2024](https://blogs.windows.com/windows-insider/2024/11/06/announcing-windows-11-insider-preview-build-27744-canary-channel/)||
 |27729|[10/17/2024](https://blogs.windows.com/windows-insider/2024/10/17/announcing-windows-11-insider-preview-build-27729-canary-channel/)||
 |27723|[10/9/2024](https://blogs.windows.com/windows-insider/2024/10/09/announcing-windows-11-insider-preview-build-27723-canary-channel/)||
@@ -57,7 +57,8 @@ Preview builds for Windows 11, version 24H2.
 
 | Build | Canary | Dev | RP | SDK | ISO |
 |---|---|---|---|---|---|
-|26120.2705*||[**12/18/2024**](https://blogs.windows.com/windows-insider/2024/12/18/releasing-real-time-translation-in-live-captions-to-more-copilot-pcs-in-the-dev-channel/)| | | |
+|26120.2992*||[**1/17/2024**](https://blogs.windows.com/windows-insider/2025/01/17/previewing-improved-windows-search-on-copilot-pcs-with-windows-insiders-in-the-dev-channel/)| | | |
+|26120.2705*||[12/18/2024](https://blogs.windows.com/windows-insider/2024/12/18/releasing-real-time-translation-in-live-captions-to-more-copilot-pcs-in-the-dev-channel/)| | | |
 |26120.2702*||[12/13/2024](https://blogs.windows.com/windows-insider/2024/12/13/announcing-windows-11-insider-preview-build-26120-2702-dev-channel/)| | | |
 |26120.2510*||[12/6/2024](https://blogs.windows.com/windows-insider/2024/12/06/previewing-more-copilot-experiences-with-windows-insiders-in-the-dev-channel/)| | | |
 |26100.2448| | |[**11/14/2024**](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-11-build-26100-2448-to-the-release-preview-channel/) | |
