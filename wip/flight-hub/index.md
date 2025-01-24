@@ -529,7 +529,7 @@ Builds leading up to the [very first release of Windows 11 on October 5, 2021](h
 
 | Build | Beta | Release Preview | ISO |
 |---|---|---|
-|19045.5435|[**1/17/2025**](https://blogs.windows.com/windows-insider/2025/01/17/releasing-windows-10-build-19045-5435-to-the-release-preview-channel/)| |
+|19045.5435| |[**1/17/2025**](https://blogs.windows.com/windows-insider/2025/01/17/releasing-windows-10-build-19045-5435-to-the-release-preview-channel/)| |
 |19045.5194|[11/14/2024](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels/)|[**11/14/2024**](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels/)| |
 |19045.5070|[10/14/2024](https://blogs.windows.com/windows-insider/2024/10/14/releasing-windows-10-build-19045-5070-to-beta-and-release-preview-channels/)|[10/14/2024](https://blogs.windows.com/windows-insider/2024/10/14/releasing-windows-10-build-19045-5070-to-beta-and-release-preview-channels/)| |
 |19045.4955|[9/16/2024](https://blogs.windows.com/windows-insider/2024/09/16/releasing-windows-10-build-19045-4955-to-beta-and-release-preview-channels/)|[9/16/2024](https://blogs.windows.com/windows-insider/2024/09/16/releasing-windows-10-build-19045-4955-to-beta-and-release-preview-channels/)| |
