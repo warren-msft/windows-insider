@@ -57,11 +57,13 @@ Preview builds for Windows 11, version 24H2.
 
 | Build | Canary | Dev | RP | SDK | ISO |
 |---|---|---|---|---|---|
-|26120.2992*||[**1/17/2024**](https://blogs.windows.com/windows-insider/2025/01/17/previewing-improved-windows-search-on-copilot-pcs-with-windows-insiders-in-the-dev-channel/)| | | |
+|26100.3025| | |[**1/21/2025**](https://blogs.windows.com/windows-insider/2025/01/21/releasing-windows-11-build-26100-3025-to-the-release-preview-channel/) | |
+|26120.3000*||[**1/24/2025**](https://blogs.windows.com/windows-insider/2025/01/24/announcing-windows-11-insider-preview-build-26120-3000-dev-channel/)| | | |
+|26120.2992*||[1/17/2024](https://blogs.windows.com/windows-insider/2025/01/17/previewing-improved-windows-search-on-copilot-pcs-with-windows-insiders-in-the-dev-channel/)| | | |
 |26120.2705*||[12/18/2024](https://blogs.windows.com/windows-insider/2024/12/18/releasing-real-time-translation-in-live-captions-to-more-copilot-pcs-in-the-dev-channel/)| | | |
 |26120.2702*||[12/13/2024](https://blogs.windows.com/windows-insider/2024/12/13/announcing-windows-11-insider-preview-build-26120-2702-dev-channel/)| | | |
 |26120.2510*||[12/6/2024](https://blogs.windows.com/windows-insider/2024/12/06/previewing-more-copilot-experiences-with-windows-insiders-in-the-dev-channel/)| | | |
-|26100.2448| | |[**11/14/2024**](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-11-build-26100-2448-to-the-release-preview-channel/) | |
+|26100.2448| | |[11/14/2024](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-11-build-26100-2448-to-the-release-preview-channel/) | |
 |26120.2415*||[11/22/2024](https://blogs.windows.com/windows-insider/2024/11/22/previewing-recall-with-click-to-do-on-copilot-pcs-with-windows-insiders-in-the-dev-channel/)| | | |
 |26120.2222*||[11/8/2024](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-26120-2222-dev-channel/)| | | |
 |26120.2213*||[11/4/2024](https://blogs.windows.com/windows-insider/2024/11/04/announcing-windows-11-insider-preview-build-26120-2213-dev-channel/)| | | |
@@ -218,7 +220,8 @@ Preview builds for updates to Windows 11, version 23H2 (Build 22631).
 | Build | Beta | RP |
 |---|---|---|
 |22631.4825| |[**1/17/2025**](https://blogs.windows.com/windows-insider/2025/01/17/releasing-windows-11-build-22631-4825-to-the-release-preview-channel/)|
-|22635.4800*|[**1/17/2025**](https://blogs.windows.com/windows-insider/2025/01/17/announcing-windows-11-insider-preview-build-22635-4800-beta-channel/)|
+|22635.4805*|[**1/24/2025**](https://blogs.windows.com/windows-insider/2025/01/24/announcing-windows-11-insider-preview-build-22635-4805-beta-channel/)|
+|22635.4800*|[1/17/2025](https://blogs.windows.com/windows-insider/2025/01/17/announcing-windows-11-insider-preview-build-22635-4800-beta-channel/)|
 |22635.4660*|[1/3/2025](https://blogs.windows.com/windows-insider/2025/01/03/announcing-windows-11-insider-preview-build-22635-4660-beta-channel/)|
 |22635.4655*|[12/13/2024](https://blogs.windows.com/windows-insider/2024/12/13/announcing-windows-11-insider-preview-build-22635-4655-beta-channel/)|
 |22635.4580*|[12/6/2024](https://blogs.windows.com/windows-insider/2024/12/06/announcing-windows-11-insider-preview-build-22635-4580-beta-channel/)| 
