@@ -43,7 +43,7 @@ Preview builds for Windows 11, version 24H2.
 >*These builds use an enablement package to Build 26120 for the Dev Channel ONLY. It should not be assumed that this build number will be used beyond the Dev Channel.
 
 | Build | Canary | Dev | Beta | RP | SDK | ISO |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |26100.3321| | | |[**2/18/2025**](https://blogs.windows.com/windows-insider/2025/02/18/releasing-windows-11-build-26100-3321-to-the-release-preview-channel/) | |
 |26120.3291*||[**2/21/2025**](https://blogs.windows.com/windows-insider/2025/02/21/announcing-windows-11-insider-preview-build-26120-3291-dev-and-beta-channels/)|[**2/21/2025**](https://blogs.windows.com/windows-insider/2025/02/21/announcing-windows-11-insider-preview-build-26120-3291-dev-and-beta-channels/) | | | |
 |26120.3281*||[2/14/2025](https://blogs.windows.com/windows-insider/2025/02/14/announcing-windows-11-insider-preview-build-26120-3281-dev-and-beta-channels/)|[2/14/2025](https://blogs.windows.com/windows-insider/2025/02/14/announcing-windows-11-insider-preview-build-26120-3281-dev-and-beta-channels/) | | | |
