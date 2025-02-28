@@ -6,7 +6,7 @@ manager: bleblanc
 ms.tgt_pltfrm: na
 ms.author: bleblanc
 ms.localizationpriority: medium
-ms.topic: article
+ms.topic: reference
 ms.service: windows-insider
 ms.date: 02/21/2025
 ---
