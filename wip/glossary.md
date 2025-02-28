@@ -8,7 +8,7 @@ ms.tgt_pltfrm: na
 
 ms.author: allieshields
 ms.localizationpriority: medium
-ms.topic: article
+ms.topic: glossary
 ms.service: windows-insider
 ---
 
