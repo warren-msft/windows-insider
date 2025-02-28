@@ -8,7 +8,7 @@ ms.tgt_pltfrm: na
 
 ms.author: allieshields
 ms.localizationpriority: high
-ms.topic: article
+ms.topic: install-set-up-deploy
 ms.service: windows-insider
 ---
 
