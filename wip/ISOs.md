@@ -8,7 +8,7 @@ ms.tgt_pltfrm: na
 
 ms.author: jhow
 ms.localizationpriority: medium
-ms.topic: article
+ms.topic: how-to
 ms.service: windows-insider
 ---
 
