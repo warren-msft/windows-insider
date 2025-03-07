@@ -20,6 +20,7 @@ Welcome to Flight Hub! Use this dashboard to quickly identify the latest Windows
 
 | Build | Canary | ISO |
 |---|---|---|---|
+|27808|[**3/7/2025**](https://blogs.windows.com/windows-insider/2025/03/07/announcing-windows-11-insider-preview-build-27808-canary-channel/)||
 |27802|[2/28/2025](https://blogs.windows.com/windows-insider/2025/02/28/announcing-windows-11-insider-preview-build-27802-canary-channel/)||
 |27788|[2/5/2025](https://blogs.windows.com/windows-insider/2025/02/05/announcing-windows-11-insider-preview-build-27788-canary-channel/)||
 |27783|[1/29/2025](https://blogs.windows.com/windows-insider/2025/01/29/announcing-windows-11-insider-preview-build-27783-canary-channel/)||
@@ -168,7 +169,8 @@ Preview builds for updates to Windows 11, version 23H2 (Build 22631).
 
 | Build | Beta | RP |
 |---|---|---|
-|22635.5015*|[**2/28/2025**](https://blogs.windows.com/windows-insider/2025/02/28/announcing-windows-11-insider-preview-build-22635-5015-beta-channel/)|
+|22635.5025*|[**3/7/2025**](https://blogs.windows.com/windows-insider/2025/03/07/announcing-windows-11-insider-preview-build-22635-5025-beta-channel/)|
+|22635.5015*|[2/28/2025](https://blogs.windows.com/windows-insider/2025/02/28/announcing-windows-11-insider-preview-build-22635-5015-beta-channel/)|
 |22631.4969| |[**2/13/2025**](https://blogs.windows.com/windows-insider/2025/02/13/releasing-windows-11-build-22631-4969-to-the-release-preview-channel/)|
 |22635.4950*|[2/21/2025](https://blogs.windows.com/windows-insider/2025/02/21/announcing-windows-11-insider-preview-build-22635-4950-beta-channel/)|
 |22635.4945*|[2/14/2025](https://blogs.windows.com/windows-insider/2025/02/14/announcing-windows-11-insider-preview-build-22635-4945-beta-channel/)|
