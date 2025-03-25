@@ -12,7 +12,7 @@ ms.topic: how-to
 ms.service: windows-insider
 ---
 
-# Using ISOs
+# How to install Windows and Windows Insider Preview using an ISO
 
 If your device is hard to use because of an issue, or if you want to switch out of the Dev Channel or stop receiving preview builds, you might need to use an ISO for a clean installation or in-place upgrade. ISOs are available for both Windows 10 Insider Preview Builds and for Windows 11 Insider Preview Builds.
 
